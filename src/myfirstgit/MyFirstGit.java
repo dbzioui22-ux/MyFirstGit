@@ -18,6 +18,7 @@ public class MyFirstGit {
         
         System.out.println("Hello");
         
+        System.out.println("happy");
     }
     
 }
